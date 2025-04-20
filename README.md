@@ -4,7 +4,7 @@
 
 ## 👨‍🏫 Guided By
 
-#Dr. Venkataramana Veeramsetty 
+# Dr. Venkataramana Veeramsetty 
 Associate Professor, Department of CS & AI  
 Director, Center for AI and Deep Learning, SR University  
 NVIDIA DLI Ambassador | Microsoft Azure AI Trainer  
