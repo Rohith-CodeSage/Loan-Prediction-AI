@@ -2,7 +2,7 @@
 
 ---
 
-## 👨‍🏫 Guided By
+# 👨‍🏫 Guided By
 
 # Dr. Venkataramana Veeramsetty 
 Associate Professor, Department of CS & AI  
